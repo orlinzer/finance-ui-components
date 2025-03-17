@@ -1,4 +1,4 @@
-# Finance Web Components
+# Finance UI Components
 
 ## Description
 
